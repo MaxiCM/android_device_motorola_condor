@@ -16,5 +16,11 @@
     "repository": "android_kernel_motorola_msm8610",
     "target_path": "kernel/motorola/msm8610"
     "branch": "maxi-5.1"
+  },
+  {
+    "remote":      "maxicm",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola"
+    "branch": "maxi-5.1"
   }
 ]
