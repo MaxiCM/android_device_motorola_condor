@@ -171,6 +171,9 @@ persist.added_boot_bgservices=4
 persist.sys.ssr.restart_level=3
 persist.sys.qc.sub.rdump.on=1
 
+# OTA
+ro.ota.manifest=http://maxicm.com/condor/ota.xml
+
 # For TCMD debug level
 persist.tcmd.log.limit=0
 
