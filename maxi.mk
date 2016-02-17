@@ -11,6 +11,3 @@ PRODUCT_DEVICE := condor
 PRODUCT_BRAND := Motorola
 PRODUCT_MODEL := MOTO E
 PRODUCT_MANUFACTURER := Motorola
-
-# Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=MOTO E TARGET_DEVICE=condor
