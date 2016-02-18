@@ -1,5 +1,8 @@
 # system.prop for msm8610
 #
+# Build.prop data
+ro.product.device=condor
+ro.product.model=Moto E
 
 # Use reference RIL for initial bringup
 #rild.libpath=/system/lib/libreference-ril.so
