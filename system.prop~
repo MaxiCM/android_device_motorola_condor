@@ -96,11 +96,6 @@ persist.audio.fluence.speaker=false
 ro.config.vc_call_vol_steps=7
 ro.audio.fm_max_volume=2624
 
-# Little Performance Tweaks
-ro.secure=0
-persist.sys.use_16bpp_alpha=1
-ro.product.gpu.driver=1
-
 # Reduce Background apps limit
 ro.sys.fw.bg_apps_limit=20
 
