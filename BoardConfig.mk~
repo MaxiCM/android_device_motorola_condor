@@ -71,7 +71,7 @@ TARGET_NR_SVC_SUPP_GIDS := 32
 
 # Optimization
 KRAIT_TUNINGS := true
-CLANG_O3 := true
+
 
 # Display
 USE_OPENGL_RENDERER := true
