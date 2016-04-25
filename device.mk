@@ -110,6 +110,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     charge_only_mode
 
+# Charger
+PRODUCT_PACKAGES += \
+    charger \
+    charger_res_images
+
 # Misc
 PRODUCT_PACKAGES += \
     libxml2
