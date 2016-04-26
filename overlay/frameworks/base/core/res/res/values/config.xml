@@ -291,4 +291,7 @@
 
     <!-- Indicate whether the SD card is accessible without removing the battery. -->
     <bool name="config_batterySdCardAccessibility">true</bool>
+    
+    <!-- Fast charge path -->
+    <string name="config_fast_charge_path">/sys/kernel/fast_charge/force_fast_charge</string>
 </resources>
