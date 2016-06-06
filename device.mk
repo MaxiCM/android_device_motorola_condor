@@ -196,7 +196,7 @@ PRODUCT_PACKAGES += \
     WCNSS_qcom_wlan_factory_nv.bin
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=240
+    ro.sf.lcd_density=230
 
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.hwc.mdpcomp.enable=true
