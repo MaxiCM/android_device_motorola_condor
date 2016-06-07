@@ -235,6 +235,12 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     persist.sys.usb.config=mtp
 
+# ART
+PRODUCT_PROPERTY_OVERRIDES += \
+    dalvik.vm.image-dex2oat-filter=speed \
+    dalvik.vm.dex2oat-filter=interpret-only \
+    dalvik.vm.dex2oat-flags=--no-watch-dog
+
 # Prima(pronto firmware)
 PRODUCT_COPY_FILES += \
     kernel/motorola/msm8610/drivers/staging/prima/firmware_bin/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
