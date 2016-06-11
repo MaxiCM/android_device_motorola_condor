@@ -1,4 +1,4 @@
-Unified Device Tree For Motorola E
+Unified Device Tree For Motorola E for MaxiCM
 ==================================
 
 The Motorola (codenamed _"Condor"_) is a low-range smartphone from Motorola mobility.
