@@ -1,7 +1,7 @@
 [
   {
-    "repository": "proprietary_vendor_condor",
-    "target_path": "vendor/condor"
+     "repository": "proprietary_vendor_motorola",
+     "target_path": "vendor/motorola"
   },
   {  
     "repository":  "android_device_motorola_msm8610-common",
